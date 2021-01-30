@@ -12,7 +12,7 @@ namespace _23OcakOdev
             gamer1.Soyisim = "Turan";
             gamer1.GamerId = 1;
             gamer1.TcNo = "111111";
-            gamer1.BirthYear = "2000";
+            gamer1.BirthYear = "1988";
 
             Game game1 = new Game();
             game1.GameId = 1;
